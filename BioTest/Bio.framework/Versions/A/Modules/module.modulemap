@@ -1,0 +1,6 @@
+framework module Bio {
+  umbrella header "Bio.h"
+
+  export *
+  module * { export * }
+}
